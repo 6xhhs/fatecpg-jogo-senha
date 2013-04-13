@@ -8,3 +8,5 @@ Apresentação do Jogo senha
 = Details =
 
 [https://code.google.com/p/fatecpg-jogo-senha/downloads/banner.png]
+
+[https://fatecpg-jogo-senha.googlecode.com/files/banner.png]
