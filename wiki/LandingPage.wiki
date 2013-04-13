@@ -1,0 +1,10 @@
+#summary Página de apresentação.
+
+= Introduction =
+
+Apresentação do Jogo senha
+
+
+= Details =
+
+Teste
