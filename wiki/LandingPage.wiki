@@ -19,7 +19,7 @@ O jogo começa mostrando as possíveis cores que podem estar na senha, e as posi
 
 [https://fatecpg-jogo-senha.googlecode.com/files/telaInicial.png]
 
-As opções de cores tem que serem digitadas da forma com esta sendo apresentado, se digitar outra cor que não constar ou de forma errada, ou até mesmo usando caracteres maiúsculos uma mensagem de erro é exibida. 
+As opções de cores tem que serem digitadas da forma como esta sendo apresentado, se digitar outra cor que não constar ou de forma errada, ou até mesmo usando caracteres maiúsculos uma mensagem de erro é exibida. 
 
 [https://fatecpg-jogo-senha.googlecode.com/files/TelaErro.png]
 
@@ -30,3 +30,10 @@ Após preencher as cores, acesse o menu de opções e clique em "Confirma", na t
 Você terá 5 tentativas para descobrir a senha, no final o jogo mostra o resultado de suas tentativas.
 
 [https://fatecpg-jogo-senha.googlecode.com/files/telaFim.png]
+
+
+Para instalar o jogo no celular basta baixar o aplicativo clicando aqui [https://fatecpg-jogo-senha.googlecode.com/files/JogoSenha.jar] e copiar o mesmo para o celular e acessá-lo.
+
+
+Autor: Felipe Villani
+contato@felipevillani.com.br 
