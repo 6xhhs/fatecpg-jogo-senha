@@ -35,5 +35,5 @@ Você terá 5 tentativas para descobrir a senha, no final o jogo mostra o result
 Para instalar o jogo no celular basta baixar o aplicativo clicando aqui [https://fatecpg-jogo-senha.googlecode.com/files/JogoSenha.jar] e copiar o mesmo para o celular e acessá-lo.
 
 
-Autor: Felipe Villani
+Autor: Felipe Villani - 
 contato@felipevillani.com.br 
