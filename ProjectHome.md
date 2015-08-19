@@ -1,0 +1,1 @@
+Um jogo onde o computador escolhe 4 cores dentro de 7 possíveis, e o usuário tem que descobrir antes que suas chances acabem quais as cores e em que ordem o computador escolheu.
